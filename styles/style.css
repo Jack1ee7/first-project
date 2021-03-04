@@ -1,0 +1,8 @@
+section {
+  border: red solid 1px;
+}
+
+page {
+  min-width: 1100px;
+  min-height: 1600px;
+}
